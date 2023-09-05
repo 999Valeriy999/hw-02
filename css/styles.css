@@ -1,16 +1,40 @@
+.body{
+    font-family: Roboto;
+}
+
+:root {
+  --c-primary: #4D5AE5;
+  --c-background-light: #F4F4FD;
+  --c-background: #FFFFFF;
+    
+}
 .logo {
-    color: #111111;
+    color: cornsilks
 }
 .nav-link {
-  color:#2E2F42;  
+  color:#2E2F42;
 }
+
+.nav-link:hover {
+    color:#404BBF
+}
+
 .hero-section{
-    background-color: #1e1823;
+    background: #2E2F42;
 }
 .hero-title{
     color: #fff;
 }
 .button{
-   background-color: #4D5AE5;
+   background-color: var(--c-primary);
    color: #fff;
+   cursor: pointer;
+   border-radius: 14px;
+   padding: 16px 32px;
+}
+.button:hover{
+   background-color: #fff;
+   color: #4D5AE5;
+   border-radius: 14px;
+   padding: 16px 32px;
 }
