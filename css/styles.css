@@ -6,8 +6,8 @@
 
 .body {
     font-family: "Roboto", sans-serif;
-    color:#434455
-    background-color: #FFFFFF;
+    color: var(--c-primary);
+    background-color:var(--c-background);
     font-size: 16px;
 }
 
@@ -42,7 +42,7 @@ ul {
   color:#2e2f42;
   width: 1440px;
  height: 72px;
- font-weight: 500;
+ font-weight:500;
  line-height: 1.5;
  letter-spacing: 0.02em;
 
