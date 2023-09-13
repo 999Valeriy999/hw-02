@@ -5,7 +5,7 @@
 }
 
 .body {
-    font-family: "Roboto", sans-serif;
+    font-family:"Roboto", sans-serif;
     color: var(--c-primary);
     background-color:var(--c-background);
     font-size: 16px;
@@ -49,9 +49,12 @@ ul {
 }
 
 .nav-link:hover {
-    color:#404BBF
+    color: #404bbf;
 }
-
+    
+.nav-link:focus{
+    color: #404bbf;
+}
 .hero-section {
     background: #2E2F42;
 }
