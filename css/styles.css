@@ -1,12 +1,12 @@
 :root {
-  --c-primary:#2E2F42;
+  --c-primary:#434455;
   --c-background-light: #D9D9D9;
   --c-background:#FFFFFF;
 }
 
 .body {
     font-family: "Roboto", sans-serif;
-    color: #434455
+    color:#434455
     background-color: #FFFFFF;
     font-size: 16px;
 }
