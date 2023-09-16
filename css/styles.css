@@ -54,6 +54,7 @@ button {
     
 .nav-link:focus{
     color: #404bbf;
+
 }
 .hero-section {
     background: #2E2F42;
@@ -90,7 +91,7 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
-    font-style: normal;
+    
 
 }
 .address-link:hover {
@@ -98,7 +99,12 @@ button {
 }
 .address-link:focus {
     color:#404bbf;
+
 }
+.address-font{
+    font-style: normal;
+}
+
 .footer {
     background-color: #2e2f42;
     
