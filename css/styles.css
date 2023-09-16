@@ -9,8 +9,10 @@ body {
     color: var(--c-primary);
     background-color:var(--c-background);
     font-size: 16px;
-}
+    
 
+}
+address:font-style: normal;
 a {
     text-decoration: none; 
 }
@@ -39,7 +41,7 @@ button {
      letter-spacing: -0.03em;
 }
 .nav-link {
- color:var(--c-primary);
+ color:#2e2f42;
  width: 1440px;
  height: 72px;
  font-weight:500;
