@@ -4,7 +4,7 @@
   --c-background:#FFFFFF;
 }
 
-.body {
+body {
     font-family:"Roboto", sans-serif;
     color: var(--c-primary);
     background-color:var(--c-background);
