@@ -88,7 +88,7 @@ button {
    line-height: 1.5;
    font-size: 16px;
    font-weight: 500;
-   letter-spacing: 0.04em
+   letter-spacing: 0.04em;
 }
 
 .button:hover {
@@ -100,6 +100,21 @@ button {
 .button:focus {
    background-color: #404BBF;
 } 
+
+.title-benefits {
+    font-weight: 500; 
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.text-benefits {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+
 .footer {
     background-color: #2e2f42;  
 }
