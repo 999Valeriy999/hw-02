@@ -66,18 +66,16 @@ button {
 
 .hero-section {
     background: #2E2F42;
-    font-size: 56px;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
+    
 }
 
 .hero-title {
     color: #fff;
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 56px;
     font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
     text-align: center;
 } 
 
