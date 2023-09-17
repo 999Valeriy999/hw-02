@@ -126,6 +126,22 @@ button {
     text-transform: capitalize;
     color: #2e2f42;
 }
+.name-team{
+    background-color: var(--c-background);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:  #2e2f42;
+}
+
+.work-position {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+
 
 
 .footer {
