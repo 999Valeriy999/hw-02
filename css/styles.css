@@ -8,9 +8,7 @@ body {
     font-family:"Roboto", sans-serif;
     background-color:#FFFFFF;
     font-size: 16px;
-    color:#434455;
-    
-
+    color:#434455;    
 }
 
 a {
@@ -30,10 +28,9 @@ button {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height:1.17; /* 116.667% */
+    line-height: 1.17; /* 116.667% */
     letter-spacing: 0.03em; /* em, rem */ /* let.spa./ font-size */
-    text-transform: uppercase;
-    
+    text-transform: uppercase;    
 }
 
 .logo-accent {
@@ -42,36 +39,30 @@ button {
 }
 .nav-link {
  color:#2e2f42;
+ font-size: 16px;
  font-weight: 500;
- line-height:  1.5;
+ line-height: 1.5;
  letter-spacing: 0.02em;
-
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.nav-link:focus {
     color: #404bbf;
-}
-    
-.nav-link:focus{
-    color: #404bbf;
-
 }
 
 .address-link {
+    color:#434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:#434455;
     font-style: normal;
+    font-family:"Roboto", sans-serif;
+    font-weight: 400;
+}
 
-}
-.address-link:hover {
-    color:#404bbf;
-}
+.address-link:hover,
 .address-link:focus {
     color:#404bbf;
 }
-
-
 
 .hero-section {
     background: #2E2F42;
@@ -85,9 +76,7 @@ button {
     line-height: 1.5;
     letter-spacing: 0.04em;
     text-align: center;
-}
-
- 
+} 
 
 .button {
    background-color: #4D5AE5;
@@ -104,10 +93,7 @@ button {
    border-radius: 14px;
    padding: 16px 32px;
 }
-
    
-
 .footer {
-    background-color: #2e2f42;
-    
+    background-color: #2e2f42;  
 }
