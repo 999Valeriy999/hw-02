@@ -146,10 +146,23 @@ button {
 }
 
 .footer-color {
-    background-color: #2e2f42;  
+    background-color: #2e2f42;
 }
 
-
+.footer-logo {
+    color: #F4F4FD;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17; /* 116.667% */
+    letter-spacing: 0.03em; /* em, rem */ /* let.spa./ font-size */
+    text-transform: uppercase;
+}
+.text-footer {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
 
 
 
