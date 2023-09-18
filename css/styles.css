@@ -129,6 +129,7 @@ button {
     text-transform: capitalize;
     color: #2e2f42;
 }
+
 .name-team {
     background-color: #FFFFFF;
     font-weight: 500;
@@ -144,9 +145,15 @@ button {
     letter-spacing: 0.02em;
 }
 
-
-
-
 .footer-color {
     background-color: #2e2f42;  
 }
+
+
+
+
+
+
+
+
+
